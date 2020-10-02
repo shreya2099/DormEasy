@@ -22,7 +22,7 @@
 *More features coming soon...
 
 ### Tech Stack:
-**Materialize CSS Framework**
+**Materialize CSS Framework**..
 
 **Django Web Framework**
 
